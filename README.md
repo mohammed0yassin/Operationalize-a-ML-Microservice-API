@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![CircleCI](https://circleci.com/gh/mohammed0yassin/Operationalize-a-ML-Microservice-API.svg?style=svg)](https://app.circleci.com/pipelines/github/mohammed0yassin/Operationalize-a-ML-Microservice-API)
 
 ## Project Overview
 
