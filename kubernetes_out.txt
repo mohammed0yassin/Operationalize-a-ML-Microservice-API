@@ -1,9 +1,0 @@
-$ ./run_kubernetes.sh
-Error from server (AlreadyExists): pods "housingprice" already exists
-NAME                             READY   STATUS    RESTARTS   AGE
-houseingprice1-647797578-652vr   1/1     Running   0          4m12s
-housingprice                     1/1     Running   0          12m
-housingprice-78786c8dff-4hh94    1/1     Running   0          7m15s
-Forwarding from 127.0.0.1:8000 -> 80
-Forwarding from [::1]:8000 -> 80
-Handling connection for 8000
